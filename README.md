@@ -17,6 +17,7 @@ El curso es de formación básica, dentro del área curricular de teoría econó
 
 ## 📩 Contacto
 Si tienes preguntas o sugerencias, puedes escribirme a: [josechavez@lamolina.edu.pe] o abrir un issue en este repositorio.
+Para atención en oficina, estoy en el piso 2 del nuevo edificio DAEP, of. N°7.
 
 ## 📜 Licencia
 Este curso está disponible bajo la licencia de Creative Commons. Puedes usar el material con la debida atribución y permiso.
